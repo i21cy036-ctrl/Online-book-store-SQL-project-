@@ -57,4 +57,17 @@ The project showcases SQL fundamentals such as **joins, aggregations, GROUP BY, 
 
 ## 📈 Project Flow  
 
+Online_Bookstore/
+├── csv_files/
+│   ├── Books.csv
+│   ├── Customers.csv
+│   ├── Orders.csv
+├── sql_load/
+│   ├── create_tables.sql   (all CREATE TABLE statements)
+│   ├── import_data.sql     (COPY commands)
+├── queries/
+│   ├── basic_queries.sql   (genre filter, stock count, revenue, etc.)
+│   ├── advanced_queries.sql (joins, most sold books, remaining stock, etc.)
+├── Online_book_store.sql
+├── README.md
 
