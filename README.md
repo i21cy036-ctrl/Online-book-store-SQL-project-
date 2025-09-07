@@ -57,7 +57,7 @@ The project showcases SQL fundamentals such as **joins, aggregations, GROUP BY, 
 
 ## 📈 Project Flow  
 
-Online_Bookstore/
+''' Online_Bookstore/
 ├── csv_files/
 │   ├── Books.csv
 │   ├── Customers.csv
@@ -69,5 +69,5 @@ Online_Bookstore/
 │   ├── basic_queries.sql   (genre filter, stock count, revenue, etc.)
 │   ├── advanced_queries.sql (joins, most sold books, remaining stock, etc.)
 ├── Online_book_store.sql
-├── README.md
+├── README.md '''
 
